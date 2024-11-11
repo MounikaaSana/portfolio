@@ -427,6 +427,9 @@ header nav .nav-links a.active{
     text-align: center;
     font-size: var(--small-font-size);
   }
+.logos{
+    margin-left:20px;
+}
   footer__social{
     display: flex;
     justify-content: center;
